@@ -48,7 +48,7 @@ WS281x
 
 <h3>Use Cases - Videos</h3> 
 
-[![Alt text](Ambilight with Laterna mini)](https://www.youtube.com/watch?v=7gAAEo-JBUc)
+[![Laterna Mini Ambilight](http://i3.ytimg.com/vi/7gAAEo-JBUc/hqdefault.jpg)](https://www.youtube.com/watch?v=7gAAEo-JBUc)
 
 <h3>License</h3>
 
