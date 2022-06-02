@@ -43,9 +43,9 @@ Our boards include a resetable fuses to limit current on the board.
 The wiring instructions you can find [here](https://github.com/Planet-Laterna/Laterna-mini/tree/main/Wiring)
 <br>Depending on the number of LEDs you want to use you can power the LEDs directly via the controller, otherwidse you can connect the LEDs power input directly to the power supply.
 <br>1. Power via USB C
-<br><img src="/Wiring/Wiring_Laterna_Mini_Power_over_USB.jpg" width="30%">
+<br><img src="/Wiring/Wiring_Laterna_Mini_Power_over_USB.jpg" width="50%">
 <br>2. Power via external PSU 
-<br><img src="/Wiring/Wiring_Laterna_Mini_Power_LED_with_PSU.jpg" width="30%">
+<br><img src="/Wiring/Wiring_Laterna_Mini_Power_LED_with_PSU.jpg" width="50%">
 
 
 <h3>Tested LED Strips:</h3>
