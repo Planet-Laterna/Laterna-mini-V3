@@ -41,7 +41,7 @@ Our boards include a resetable fuses to limit current on the board.
 <br>Powered by USB C port -> 3A
 
 <h3>Wiring</h3>
-<br>Depending on the number of LEDs you want to use you can power the LEDs directly via the controller, otherwidse you can connect the LEDs power input directly to the power supply.
+Depending on the number of LEDs you want to use you can power the LEDs directly via the controller, otherwidse you can connect the LEDs power input directly to the power supply.
 <br>1. Power via USB C
 <br><img src="/Wiring/Wiring_Laterna_Mini_Power_over_USB.jpg" width="70%">
 <br>2. Power via external PSU 
