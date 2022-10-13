@@ -1,18 +1,17 @@
-<h1>Laterna mini</h1>
+<h1>Laterna mini V3</h1>
 
 The Laterna series of boards are mainly intended to be used with [WLED software ](https://github.com/Aircoookie/WLED "WLED's Homepage"), but you can also program the board using your own code or other library via [Arduino](https://www.arduino.cc "Arduino Homepage"), [ESPHome](https://esphome.io "ESPHome Homepage"), [Tasmota](https://tasmota.github.io/docs "Tasmota Homepage") etc.
 
 
-The controller can be ordered from [Aliexpress](https://www.aliexpress.com/item/1005003856791476.html?spm=5261.ProductManageOnline.0.0.69f24edfKVGmPr)<br>
+The controller can be ordered from [Aliexpress](https://www.aliexpress.us/item/3256804573459837.html?spm=5261.ProductManageOnline.0.0.6b454edf0eqcsJ&gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)<br>
 
 <h3>Features</h3>
-Chip:   ESP-01F 
+Chip:   ESP32-Pico-mini
 <br>USB Type C connector for flashing and 5V power
 <br>CP2102 USB to serial chip for easy flashing (https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) 
-<br>1 channels for adressable LED strip with 3 or 4 pins (e.g. WS281x, WS2801, SK6812 etc.)
+<br>1 channels for adressable LED strip with 3 (e.g. WS281x, SK6812 etc.)
 <br>3A resettable Fuse (https://en.wikipedia.org/wiki/Resettable_fuse)
-
-<img src="/Photos/mini-Front.png" width="50%"><img src="/Photos/mini_Back.png" width="50%">
+<br>Version with and without integrated digital Microphone available (INMP441)
 
 <h3>Installation</h3>
 
@@ -31,26 +30,13 @@ We also have a ESPHome template available which can be easily flashed via [this 
 * Press and hold the Flash button before connecting the board to USB or programmer connector. Release the flash button after you connect the board.
 
 
-<h3>PINOUT Description</h3>
-
-<img src="/Photos/Laterna_Pinout.png" width="50%">
-
 <h3>Circuit protection</h3>
 
 Our boards include a resetable fuses to limit current on the board.
 <br>Powered by USB C port -> 3A
 
-<h3>Wiring</h3>
-Depending on the number of LEDs you want to use you can power the LEDs directly via the controller, otherwidse you can connect the LEDs power input directly to the power supply.
-<br>1. Power via USB C
-<br><img src="/Wiring/Wiring_Laterna_Mini_Power_over_USB.jpg" width="70%">
-<br>2. Power via external PSU 
-<br><img src="/Wiring/Wiring_Laterna_Mini_Power_LED_with_PSU.jpg" width="70%">
-
-
 <h3>Tested LED Strips:</h3>
 WS281x
-<br>WS2801
 <br>SK6812
 
 
