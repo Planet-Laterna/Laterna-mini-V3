@@ -13,6 +13,8 @@ Chip:   ESP32-Pico-mini
 <br>3A resettable Fuse (https://en.wikipedia.org/wiki/Resettable_fuse)
 <br>Version with and without integrated digital Microphone available (INMP441)
 
+<h3>Wiring instructions will be updated soon</h3>
+
 <h3>Installation</h3>
 
 All our boards are delivered with a up to date WLED version.You can use the board out of the box.
