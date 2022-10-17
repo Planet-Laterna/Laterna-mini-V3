@@ -3,7 +3,7 @@
 The Laterna series of boards are mainly intended to be used with [WLED software ](https://github.com/Aircoookie/WLED "WLED's Homepage"), but you can also program the board using your own code or other library via [Arduino](https://www.arduino.cc "Arduino Homepage"), [ESPHome](https://esphome.io "ESPHome Homepage"), [Tasmota](https://tasmota.github.io/docs "Tasmota Homepage") etc.
 
 
-The controller can be ordered from [Aliexpress](https://www.aliexpress.us/item/3256804573459837.html?spm=5261.ProductManageOnline.0.0.6b454edf0eqcsJ&gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)<br>
+The controller can be ordered from [Aliexpress](https://www.aliexpress.us/item/3256804573459837.html?spm=a2g0o.store_pc_allProduct.8148356.7.357860603lHAKu&pdp_npi=2%40dis%21USD%21US%20%2416.75%21US%20%2416.75%21%21%21%21%21%402146a03716660030378366121e8ed3%2112000030370281507%21sh&gatewayAdapt=glo2usa&_randl_shipto=US)<br>
 
 <h3>Features</h3>
 Chip:   ESP32-Pico-mini
