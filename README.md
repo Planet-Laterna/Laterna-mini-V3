@@ -62,4 +62,5 @@ Software used in this guide is open source and licensed under the **MIT License*
 <h3>Acknowledgment</h3>
 
 We would like to thank WLED Developers for their great job, our platform relies strongly on their work
-[![Alt text](https://github.com/Aircoookie/WLED/blob/master/images/wled_logo_akemi.png)](https://github.com/Aircoookie/WLED)
+
+[![Alt text](https://github.com/Aircoookie/WLED/blob/main/images/wled_logo_akemi.png?raw=true)](https://github.com/Aircoookie/WLED)
