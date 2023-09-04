@@ -48,7 +48,7 @@ WS281x
 
 Iron Man Suit by Nate from the Internet
 
-[![Watch the video](https://img.youtube.com/vi/u2959fVrq/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://youtu.be/u2959fVrq-s?si=skSPCmUmJoFIo4mM&t=94))
+[![Iron Man](https://img.youtube.com/vi/u2959fVrq-s/hqdefault.jpg)](https://youtu.be/u2959fVrq-s?si=skSPCmUmJoFIo4mM&t=94)
 
 <h3>License</h3>
 
