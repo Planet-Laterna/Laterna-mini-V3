@@ -13,7 +13,7 @@ Chip:   ESP32-Pico-mini
 <br>3A resettable Fuse (https://en.wikipedia.org/wiki/Resettable_fuse)
 <br>Version with and without integrated digital Microphone available (INMP441)
 
-<h3>Wiring instructions will be updated soon</h3>
+<img src="Laterna_mini_v3_Pinout.jpg" width="50%">
 
 <h3>Installation</h3>
 
