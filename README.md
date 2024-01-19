@@ -8,7 +8,7 @@ The controller can be ordered from [Aliexpress](https://www.aliexpress.us/item/3
 <h3>Features</h3>
 Chip:   ESP32-Pico-mini
 <br>USB Type C connector for flashing and 5V power
-<br>CP2102 USB to serial chip for easy flashing (https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) 
+<br>CP2102 or CH340 USB to serial chip for easy flashing
 <br>1 channel for adressable LED strip incl. level shifter (e.g. WS281x, SK6812 etc.)
 <br>3A resettable Fuse (https://en.wikipedia.org/wiki/Resettable_fuse)
 <br>Version with and without integrated digital Microphone available (INMP441)
